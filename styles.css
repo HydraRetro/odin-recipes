@@ -61,3 +61,8 @@ li {
 footer {
     text-align: center;
 }
+
+a {
+    color: #e5e5e5;
+    text-decoration: none;
+}
